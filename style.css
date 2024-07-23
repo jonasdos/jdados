@@ -1,0 +1,15 @@
+tbody {
+  background-color: aqua;
+  display: flex;
+  margin: 5px;
+  flex-wrap: wrap;
+}
+
+.playerCard {
+  margin: 10px;
+}
+
+.playerName {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+}
